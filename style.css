@@ -1,0 +1,66 @@
+.button{
+			width:22%;
+			height: 75px; 
+			margin: 50px 5px; 
+			padding: 5px;
+			vertical-align: top;
+			display: inline-block;
+			border-radius: 10%; 
+			background: lightblue;
+			box-shadow: 2px 4px 2px grey;  
+			font-weight: bold;  
+		}
+		.container{
+			width: 800px; 
+			height: 200px;
+			margin: auto; 
+			
+		}
+		#divOutput{
+			width: 460px; 
+			height: 100px;
+			margin: 50px 0px 0px 230px; 
+/*			background: lightgrey; 
+*/			text-align: center; 
+			vertical-align: 50px;
+			font-size: 2em;
+			position: fixed; 
+		}
+		
+		#bubble{
+			width: 560px; 
+			height: 350px; 
+			margin: -75px 0px 0px 165px;
+			position: absolute;
+		}
+
+		#bobIMG{
+			width: 460px; 
+			height: 300px;
+			position: relative;
+			margin: 200px -50px 0px -75px; 
+			display: block;
+		}
+
+		@media screen and (max-width: 775px){
+			.button{
+				display: block;
+				margin: 10px 5px;
+			}
+
+			#bubble{
+				width:220px;
+				height: 500px;
+				margin: -215px 0px 0px 175px;
+			}
+			#divOutput{
+				width: 130px; 
+				height: 520px; 
+				margin: -100px 0px 0px 230px;
+			}
+
+			#bobIMG{
+				margin: 150px -50px 0px -75px;
+			}
+
+		};
