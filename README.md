@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bob
 
 Bob is a lackadaisical teenager. In conversation, his responses are very limited.
@@ -46,3 +47,6 @@ changing `xit` to `it`.
 ## Source
 
 Inspired by the 'Deaf Grandma' exercise in Chris Pine's Learn to Program tutorial. [view source](http://pine.fm/LearnToProgram/?Chapter=06)
+=======
+This is where I will leave all of my experimental things. 
+>>>>>>> 140a0e2e9d2c634328437da7c20967f8a7275e9a
